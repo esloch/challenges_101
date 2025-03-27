@@ -6,7 +6,7 @@ OSL - Python Challenges – Tutor Beginner Level
 - 3 - https://www.101computing.net/the-egg-farmer-puzzle/
 - 4 - https://www.101computing.net/digit-sum-algorithm/
 - 5 - https://www.101computing.net/spot-the-logic-error/
-- 7 - https://www.101computing.net/the-allotment-crop-planner-python-challenge/
+- 6 - https://www.101computing.net/the-allotment-crop-planner-python-challenge/
 - 8 - ?
 - 9 - https://www.101computing.net/scheduling-algorithms-python-challenge/
 - 10 - https://www.101computing.net/olympics-host-cities-csv-challenge/
