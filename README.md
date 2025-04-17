@@ -8,9 +8,7 @@ OSL - Python Challenges – Tutor Beginner Level
 - 5 - https://www.101computing.net/the-allotment-crop-planner-python-challenge/
 - 6 - https://www.101computing.net/string-slicing-in-python/
 - 7 - https://www.101computing.net/for-sale/
-
 - 8 - https://www.101computing.net/spot-the-logic-error/
-
-- 9 - https://www.101computing.net/scheduling-algorithms-python-challenge/
+- 9 - https://www.101computing.net/flowchart-to-python-code-poker-dice-game/
 - 10 - https://www.101computing.net/olympics-host-cities-csv-challenge/
-- 11 - https://www.101computing.net/fruit-machine/
+- 12 - https://www.101computing.net/fruit-machine/
